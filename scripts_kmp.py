@@ -9,7 +9,7 @@
 #|
 #| Версия под упаковку в EXE (PyInstaller).
 
-import osgi
+import os
 import sys
 import io
 import math
